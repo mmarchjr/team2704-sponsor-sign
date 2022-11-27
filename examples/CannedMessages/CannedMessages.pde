@@ -31,9 +31,12 @@ NewSoftSerial  bbPort(7, 8);
 const int dtime = 15000;
 
 const char *DisplayStrings[]={
- "This is a message",
- "... it came from an Arduino",
- "Beer is good"
+ "Caterpillar",
+ "US Engineering League",
+ "80/20 Inc.",
+ "Bartoszek Engineering",
+ "Steiner Electric",
+ "Aurora Public Library"
 };
 
 void setup ()
