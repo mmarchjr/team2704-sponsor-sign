@@ -36,7 +36,9 @@ const char *DisplayStrings[]={
  "80/20 Inc.",
  "Bartoszek Engineering",
  "Steiner Electric",
- "Aurora Public Library"
+ "Aurora Public Library",
+ "go team 2704",
+ "Roaring Robotics"
 };
 
 void setup ()
